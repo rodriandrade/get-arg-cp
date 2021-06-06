@@ -8,7 +8,7 @@ const getCP = async (prov, loc) =>{
     const $ = cheerio.load(html.data);
     const heading = $('.jumbotron');
     const output = heading.find('p.lead').text();
-    console.log(output);
+    return output
 }
 
 module.exports = getCP;
