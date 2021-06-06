@@ -6,6 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriandrade/get-arg-cp"
+  },
+  "keywords": [
+    "postal code",
+    "postal code argentina",
+    "cp argentina",
+    "codigo postal argentina"
+  ],
   "author": "rodriandrade14",
   "license": "ISC",
   "dependencies": {
