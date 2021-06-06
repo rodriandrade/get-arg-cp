@@ -1,0 +1,15 @@
+{
+  "name": "get-arg-cp",
+  "version": "1.0.0",
+  "description": "Get postal codes from Argentina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rodriandrade14",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9"
+  }
+}
